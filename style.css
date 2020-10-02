@@ -8,7 +8,7 @@ body{}
 }
 
 .upperpart{
-	background-image: url("../logoimage/bci.jpg"); 
+	background-image: url("logoimage/bci.jpg"); 
     background-size: cover;
     background-position: center;
 }
@@ -554,7 +554,7 @@ footer img{
     	float: right;
     	background-color: blu;
     	padding: 0;
-	line-height: 20px;
+	line-height: 30px;
     }
 
     .rightcolumn{
