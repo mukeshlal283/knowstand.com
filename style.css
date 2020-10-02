@@ -8,7 +8,7 @@ body{}
 }
 
 .upperpart{
-	background-image: url("logoimage/bci.jpg"); 
+	background-image: url("bci.jpg"); 
     background-size: cover;
     background-position: center;
 }
